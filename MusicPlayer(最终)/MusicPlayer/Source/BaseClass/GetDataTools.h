@@ -20,7 +20,7 @@ typedef void (^PassValue)(NSArray *array);
 
 
 
-//单例方法1111111
+//单例方法111111122222
 +(instancetype)shareGetDate;
 
 // 获取数据的方法
